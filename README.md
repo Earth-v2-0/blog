@@ -1,2 +1,3 @@
-# blog
-Official blog of The Earth v2.0 project
+# Blog
+
+Official blog of The Earth v2.0 project.
